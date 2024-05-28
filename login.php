@@ -14,7 +14,7 @@
         	<h2>Login</h2>
 	        <div class="col_w450 float_l">
            	  
-                <p>Nunc varius venenatis sem sed adipiscing. Mauris suscipit mauris in purus mattis placerat. Ut rhoncus imperdiet nibh sit amet sagittis. Aliquam erat volutpat. In pellentesque sagittis dictum. Aliquam erat volutpat. Donec ac aliquam.</p>
+                <p>Idú dve stíhačky a jedna nestíha.</p>
  				
                 <div class="cleaner h30"></div>
                 

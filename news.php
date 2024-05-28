@@ -19,6 +19,7 @@
                 <a class="more" href="#">More</a>
                 <div class="cleaner"></div>
             </div>
+            <img src="img/lizzie01.jpg" alt="Cute Kitten" width="1024" height="526">
             <div class="news_box">
                 <h2>Duis eu lectus et ante accumsan auctor</h2>
                 <p class="date">May 8, 2048</p>
