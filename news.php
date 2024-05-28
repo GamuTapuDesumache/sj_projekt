@@ -10,6 +10,7 @@
     <div id="templatemo_main">
     
         <div class="col_w600 float_l">
+        <img src="img/kitten01.jpg" alt="Cute Kitten">
         	<div class="news_box">
                 <h2>Sed mollis elementum lectus rhoncus</h2>
                 <p class="date">May 22, 2048</p>
